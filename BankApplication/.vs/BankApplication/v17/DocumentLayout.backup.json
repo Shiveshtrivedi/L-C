@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BankApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E385538-CE99-4B67-A5D0-9928B88A3E26}|BankApplication\\BankApplication.csproj|d:\\bankapplication\\bankapplication\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E385538-CE99-4B67-A5D0-9928B88A3E26}|BankApplication\\BankApplication.csproj|solutionrelative:bankapplication\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E385538-CE99-4B67-A5D0-9928B88A3E26}|BankApplication\\BankApplication.csproj|d:\\bankapplication\\bankapplication\\currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E385538-CE99-4B67-A5D0-9928B88A3E26}|BankApplication\\BankApplication.csproj|solutionrelative:bankapplication\\currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E385538-CE99-4B67-A5D0-9928B88A3E26}|BankApplication\\BankApplication.csproj|d:\\bankapplication\\bankapplication\\bankmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E385538-CE99-4B67-A5D0-9928B88A3E26}|BankApplication\\BankApplication.csproj|solutionrelative:bankapplication\\bankmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E385538-CE99-4B67-A5D0-9928B88A3E26}|BankApplication\\BankApplication.csproj|d:\\bankapplication\\bankapplication\\transactionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E385538-CE99-4B67-A5D0-9928B88A3E26}|BankApplication\\BankApplication.csproj|solutionrelative:bankapplication\\transactionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E385538-CE99-4B67-A5D0-9928B88A3E26}|BankApplication\\BankApplication.csproj|d:\\bankapplication\\bankapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E385538-CE99-4B67-A5D0-9928B88A3E26}|BankApplication\\BankApplication.csproj|solutionrelative:bankapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E385538-CE99-4B67-A5D0-9928B88A3E26}|BankApplication\\BankApplication.csproj|d:\\bankapplication\\bankapplication\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E385538-CE99-4B67-A5D0-9928B88A3E26}|BankApplication\\BankApplication.csproj|solutionrelative:bankapplication\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E385538-CE99-4B67-A5D0-9928B88A3E26}|BankApplication\\BankApplication.csproj|d:\\bankapplication\\bankapplication\\savingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E385538-CE99-4B67-A5D0-9928B88A3E26}|BankApplication\\BankApplication.csproj|solutionrelative:bankapplication\\savingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TransactionHandler.cs",
+              "DocumentMoniker": "D:\\BankApplication\\BankApplication\\TransactionHandler.cs",
+              "RelativeDocumentMoniker": "BankApplication\\TransactionHandler.cs",
+              "ToolTip": "D:\\BankApplication\\BankApplication\\TransactionHandler.cs",
+              "RelativeToolTip": "BankApplication\\TransactionHandler.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAD4vx4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T16:53:36.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CurrentAccount.cs",
+              "DocumentMoniker": "D:\\BankApplication\\BankApplication\\CurrentAccount.cs",
+              "RelativeDocumentMoniker": "BankApplication\\CurrentAccount.cs",
+              "ToolTip": "D:\\BankApplication\\BankApplication\\CurrentAccount.cs",
+              "RelativeToolTip": "BankApplication\\CurrentAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T16:38:21.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SavingAccount.cs",
+              "DocumentMoniker": "D:\\BankApplication\\BankApplication\\SavingAccount.cs",
+              "RelativeDocumentMoniker": "BankApplication\\SavingAccount.cs",
+              "ToolTip": "D:\\BankApplication\\BankApplication\\SavingAccount.cs",
+              "RelativeToolTip": "BankApplication\\SavingAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T16:38:11.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\BankApplication\\BankApplication\\Account.cs",
+              "RelativeDocumentMoniker": "BankApplication\\Account.cs",
+              "ToolTip": "D:\\BankApplication\\BankApplication\\Account.cs",
+              "RelativeToolTip": "BankApplication\\Account.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wB8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T15:47:25.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BankApplication\\BankApplication\\Program.cs",
+              "RelativeDocumentMoniker": "BankApplication\\Program.cs",
+              "ToolTip": "D:\\BankApplication\\BankApplication\\Program.cs",
+              "RelativeToolTip": "BankApplication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T15:13:13.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BankManagement.cs",
+              "DocumentMoniker": "D:\\BankApplication\\BankApplication\\BankManagement.cs",
+              "RelativeDocumentMoniker": "BankApplication\\BankManagement.cs",
+              "ToolTip": "D:\\BankApplication\\BankApplication\\BankManagement.cs",
+              "RelativeToolTip": "BankApplication\\BankManagement.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T15:11:37.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Enum.cs",
+              "DocumentMoniker": "D:\\BankApplication\\BankApplication\\Enum.cs",
+              "RelativeDocumentMoniker": "BankApplication\\Enum.cs",
+              "ToolTip": "D:\\BankApplication\\BankApplication\\Enum.cs",
+              "RelativeToolTip": "BankApplication\\Enum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:07:53.478Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
